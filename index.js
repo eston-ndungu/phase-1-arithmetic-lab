@@ -18,3 +18,4 @@ let mod = num3 % num4 // The remainder of dividing 52 by 6 should be 4
 
 // Get maximum number
 let max = Math.max(2,5,20,6,14,18,3,19,10) // Maximum number should be 20
+
